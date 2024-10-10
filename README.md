@@ -4,6 +4,9 @@
  Mysellar, a multinational retail corporation that operates a chain of stores – online and offline – in all continents. The items sold cut across a range of categories including cosmetics, baby food, household, office supplies, and clothes.
 Mysellar wants to use its sales data to inform decision-making on the profitable products to focus on and which markets to concentrate sales efforts on, using historical data to perform descriptive analysis and present valuable insights to guide Mysellar’s sales operations. 
 
+![Myseller Dashboard Pic](https://github.com/user-attachments/assets/58ccd7fb-ea3a-49c9-88b6-75df1904b1ac)
+
+
 ### Data Sources
 Myseller Global Sales Data: The primary dataset used for this analysis is the " Mysellar Global Sales.xlsx" file, containing detailed information about each Myseller Global Sales from 2019-2021.
 
