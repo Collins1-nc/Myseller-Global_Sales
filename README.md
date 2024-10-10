@@ -57,7 +57,7 @@ and discounts to raise awareness for the members of the public.
 -	In North America where there are lowest sales of Myseller Products, Myseller should figure out salable products in the region and invest more in it.
 
 ### References
-•	A lookup table for nominal GDP is provided [Download]( here)
+•	A lookup table for nominal GDP is provided [Download Here](https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal))
 
 
 
